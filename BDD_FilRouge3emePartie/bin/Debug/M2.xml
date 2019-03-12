@@ -1,0 +1,18 @@
+<Sejour>
+  <Theme>16e</Theme>
+  <Date>semaine 14</Date>
+  <Information>sejour valide</Information>
+  <Client>
+    <Nom>Peltier</Nom>
+    <Num_Client>21</Num_Client>
+  </Client>
+  <Location_Voiture>
+    <Nom_Parking>Parking Victor Hugo</Nom_Parking>
+    <Numero_Place>A10</Numero_Place>
+    <Immatriculation>AE41</Immatriculation>
+  </Location_Voiture>
+  <Location_Appartement>
+    <Numero_Appartement>62101</Numero_Appartement>
+    <Identifiant_Chambre>Entire home/apt</Identifiant_Chambre>
+  </Location_Appartement>
+</Sejour>

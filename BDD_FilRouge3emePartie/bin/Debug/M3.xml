@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New document created with EditiX at Sat May 26 22:40:00 CEST 2018 -->
+<!DOCTYPE Validation_sejour[
+
+<!ELEMENT Validation_sejour (Numero_Sejour+,Information,Reference_Appartement+)>
+
+<!ELEMENT Numero_Sejour (#PCDATA)>
+
+<!ELEMENT Information (#PCDATA)>
+
+<!ELEMENT Reference_Appartement (#PCDATA)>
+
+]>
+
+
+<Validation_sejour>
+	
+	<Numero_Sejour>A3</Numero_Sejour>
+		
+	<Information>sejour valide</Information>
+		
+	<Reference_Appartement>2893116</Reference_Appartement>
+		
+</Validation_sejour>

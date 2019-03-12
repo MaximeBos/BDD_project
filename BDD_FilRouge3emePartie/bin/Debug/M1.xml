@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New document created with EditiX at Sat May 26 22:40:00 CEST 2018 -->
+<!DOCTYPE Reservation[
+
+<!ELEMENT Reservation (Client+,Adresse,Date,Sejour+)>
+
+<!ELEMENT Client (#PCDATA)>
+
+<!ELEMENT Adresse (#PCDATA)>
+
+<!ELEMENT Date (#PCDATA)>
+
+
+<!ELEMENT Sejour (#PCDATA)>
+]>
+
+
+<Reservation>
+
+	  <Client>Peltier</Client>
+	  
+	  <Adresse>4 allee O Cantelou</Adresse>
+	  
+	  <Date>semaine 14</Date>
+	  
+	  <Sejour>Visite de la Defense</Sejour>
+	  
+</Reservation>
+

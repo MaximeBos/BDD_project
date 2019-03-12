@@ -1,0 +1,10 @@
+C:\Users\maxim\source\repos\BDD_FilRouge3emePartie\BDD_FilRouge3emePartie\bin\Debug\BDD_FilRouge3emePartie.exe.config
+C:\Users\maxim\source\repos\BDD_FilRouge3emePartie\BDD_FilRouge3emePartie\bin\Debug\BDD_FilRouge3emePartie.exe
+C:\Users\maxim\source\repos\BDD_FilRouge3emePartie\BDD_FilRouge3emePartie\bin\Debug\BDD_FilRouge3emePartie.pdb
+C:\Users\maxim\source\repos\BDD_FilRouge3emePartie\BDD_FilRouge3emePartie\obj\Debug\BDD_FilRouge3emePartie.csprojResolveAssemblyReference.cache
+C:\Users\maxim\source\repos\BDD_FilRouge3emePartie\BDD_FilRouge3emePartie\obj\Debug\BDD_FilRouge3emePartie.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\BDD_FilRouge3emePartie\BDD_FilRouge3emePartie\obj\Debug\BDD_FilRouge3emePartie.exe
+C:\Users\maxim\source\repos\BDD_FilRouge3emePartie\BDD_FilRouge3emePartie\obj\Debug\BDD_FilRouge3emePartie.pdb
+C:\Users\maxim\source\repos\BDD_FilRouge3emePartie\BDD_FilRouge3emePartie\bin\Debug\MySql.Data.dll
+C:\Users\maxim\source\repos\BDD_FilRouge3emePartie\BDD_FilRouge3emePartie\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maxim\source\repos\BDD_FilRouge3emePartie\BDD_FilRouge3emePartie\bin\Debug\Newtonsoft.Json.xml
